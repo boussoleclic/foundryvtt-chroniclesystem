@@ -26,8 +26,8 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/boussoleclic/foundryvtt-chroniclesystem/",
-  "download": "https://raw.githubusercontent.com/boussoleclic/foundryvtt-chroniclesystem/dev-v13/chroniclesystem.zip",
-  "manifest": "https://raw.githubusercontent.com/boussoleclic/foundryvtt-chroniclesystem/dev-v13/system.json",
+  "download": "https://raw.githubusercontent.com/boussoleclic/foundryvtt-chroniclesystem/v13fix-dev/chroniclesystem.zip",
+  "manifest": "https://raw.githubusercontent.com/boussoleclic/foundryvtt-chroniclesystem/v13fix-dev/system.json",
   "license": "ISC",
   "id": "chroniclesystem-v13fix",
   "authors": [
