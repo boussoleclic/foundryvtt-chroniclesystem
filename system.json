@@ -1,5 +1,5 @@
 {
-  "title": "Chronicle System (Unofficial)",
+  "title": "Chronicle System (Unofficial) V13 Fix",
   "description": "An implementation for Green Ronin's Chronicle System, used by SIFRP and Sword Chronicles.",
   "version": "0.6.0",
   "esmodules": [
@@ -25,11 +25,11 @@
   },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://github.com/3darkman/foundryvtt-chroniclesystem/",
-  "manifest": "https://raw.githubusercontent.com/3darkman/foundryvtt-chroniclesystem/master/system.json",
-  "download": "https://raw.githubusercontent.com/3darkman/foundryvtt-chroniclesystem/master/chroniclesystem.zip",
+  "url": "https://github.com/boussoleclic/foundryvtt-chroniclesystem/",
+  "download": "https://raw.githubusercontent.com/boussoleclic/foundryvtt-chroniclesystem/dev-v13/chroniclesystem.zip",
+  "manifest": "https://raw.githubusercontent.com/boussoleclic/foundryvtt-chroniclesystem/dev-v13/system.json",
   "license": "ISC",
-  "id": "chroniclesystem",
+  "id": "chroniclesystem-v13fix",
   "authors": [
     {
       "name": "Kirlian '3darkman' Silvestre",
@@ -39,6 +39,7 @@
   ],
   "compatibility": {
     "minimum": "11",
-    "verified": "11.315"
+    "verified": "11.315",
+    "system": 3
   }
 }
