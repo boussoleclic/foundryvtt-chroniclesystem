@@ -18,8 +18,11 @@
       "flags": {}
     }
   ],
-  "gridDistance": 5,
-  "gridUnits": "ft",
+  "grid": {
+      "distance": 5,
+      "units": "ft",
+      "type": 1
+  },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/3darkman/foundryvtt-chroniclesystem/",
